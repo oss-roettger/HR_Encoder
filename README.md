@@ -4,7 +4,8 @@ The  [StyleGAN2](https://arxiv.org/abs/1912.04958) model is is capable of genera
 
 **Legal information**
 
-*HR_Encoder.ipynb*, *HR_Encoder.py* and *w_utilities.py* are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)**<p>
+*HR_Encoder.ipynb*, *HR_Encoder.py* and *w_utilities.py*<br>
+are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)**<br>
 and distributed under the terms of **[GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.
 
 **Severability** clause: If a provision of the [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect: 
