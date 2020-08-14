@@ -1,6 +1,6 @@
 # HR_Encoder - find your own images in StyleGAN2
 
-[StyleGAN2](https://arxiv.org/abs/1912.04958) is capable of generating natural looking images out of (almost) nothing - even images that haven't been discovered yet. HR_Encoder extends Alberto Rosas Garcia's unofficial [StyleGAN2-Tensorflow-2.x implementation](https://github.com/rosasalberto/StyleGAN2-TensorFlow-2.x) to find your own images in StyleGAN2's *W* space.
+[StyleGAN2](https://arxiv.org/abs/1912.04958) is capable of generating natural looking images out of nothing - even images that haven't been discovered yet. HR_Encoder extends Alberto Rosas Garcia's unofficial [StyleGAN2-Tensorflow-2.x implementation](https://github.com/rosasalberto/StyleGAN2-TensorFlow-2.x) to find your own images in StyleGAN2's *W* space.
 
 **Legal information**
 
