@@ -20,7 +20,7 @@
 [6](https://www.maxpixel.net/Cologne-Cathedral-Dom-Bridge-Cologne-Church-1111696)
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
-![Difference between W space encoded and original image ]("./HR_videos/3 encoded.png")
+![Difference between W space encoded and original image](./HR_videos/3 encoded.png?raw=true "[Difference between W space encoded and original image")
 
 <table style="width: 100%">
 <tr>
