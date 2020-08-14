@@ -20,7 +20,7 @@
 [6](https://www.maxpixel.net/Cologne-Cathedral-Dom-Bridge-Cologne-Church-1111696)
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
-<table border="1" akign=<"center">
+<table style="width: 100%">
 <colgroup>
    <col span="1" style="width: 25%;">
    <col span="1" style="width: 50%;">
