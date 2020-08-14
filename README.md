@@ -77,3 +77,6 @@ BTW: this approach leads to a more consice algorithm without need of complicated
     /usr/bin/docker run -it --rm -v $(realpath ./StyleGAN2-TensorFlow-2.x):/tf/HR_Encoder -p 8888:8888 tensorflow/tensorflow:2.1.1-jupyter 
 
     # Finally: start HR_Encoder.ipynb [Kernal/Restart & Run All]
+
+## Known issue
+If you run HR_Encoder with GPU/CUDA support, the tensorflow library might raise a "ressource exhausted" error from time to time. This seems to be the cause when the GPU memory is to fragmented to initialize the StyleGAN2 model. Work around: 1. try to run again. 2. restart your tensorflow environment. 3. restart your system.
