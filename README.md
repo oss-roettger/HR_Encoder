@@ -21,12 +21,6 @@
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
 <table style="width: 100%">
-<colgroup>
-<col span="1" style="width: 25%;">
-<col span="2" style="width: 50%;">
-<col span="1" style="width: 25%;">
-</colgroup>
-<tbody>
 <tr>
     <td>
         <table border="0">
@@ -34,7 +28,7 @@
             <tr><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img></tr>
         </table>
     </td>
-    <td><img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img></td>
+    <td colspan="2">><img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img></td>
     <td>
         <table border="0">
             <tr><img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img></tr>
@@ -42,7 +36,6 @@
         </table>
     </td>
 </tr>
-</tbody>
 </table>
 
 **Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added / image style changed). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
