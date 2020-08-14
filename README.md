@@ -10,7 +10,7 @@
 1. the validity or enforceability in that jurisdiction of any other provision of the AGPLv3; or 
 2. the validity or enforceability in other jurisdictions of that or any other provision of the AGPLv3.
 
-<span style="color:red">**⚠️ Warning**</span>: HR_Encoder makes heavy use of your hardware via the [tensorflow2](https://www.tensorflow.org/) libraries. Pay attention to adequate cooling and take all necessary precautions to prevent overheating or consequential damage according to the recommendations of your hardware provider.
+<span style="color: red">**⚠️ Warning**</span>: HR_Encoder makes heavy use of your hardware via the [tensorflow2](https://www.tensorflow.org/) libraries. Pay attention to adequate cooling and take all necessary precautions to prevent overheating or consequential damage according to the recommendations of your hardware provider.
 
 **Images** used to showcase HR_Encoder are copyrighted by their respective owners and were licensed by them [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)/PD/[pixabay](https://pixabay.com/service/license/): [1](https://de.m.wikipedia.org/wiki/Datei:Angela_Merkel_(2016-09-16_BRATISLAVA_SUMMIT).jpg)
 [2](https://www.maxpixel.net/Che-Red-Revolution-Silhouette-Stripes-Guevara-158841)
@@ -19,10 +19,6 @@
 [5](https://pixnio.com/fauna-animals/cats-and-kittens/cat-kitten-pet-cute-animal-portrait-sleep-textil-fur)
 [6](https://www.maxpixel.net/Cologne-Cathedral-Dom-Bridge-Cologne-Church-1111696)
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
-
-
-
-|<tr><img src="./HR_videos/1e.gif" alt="" border=3 height=180 width=180></img></tr><tr><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img></tr>|<img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img>||<img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img>|
 
 <table style="width: 100%">
 <tr>
