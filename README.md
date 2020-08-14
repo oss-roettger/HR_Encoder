@@ -24,15 +24,15 @@
 <tr>
     <td>
         <table border="0">
-            <tr><img src="./HR_videos/1e.gif" alt="" height=200 width=200 border=3></img></tr>
-            <tr><img src="./HR_videos/manipulation12.gif" alt="" height=200 width=200 border=3></img></tr>
+            <tr><img src="./HR_videos/1e.gif" alt="" height=256 width=256 border=3></img></tr>
+            <tr><img src="./HR_videos/manipulation12.gif" alt="" height=256 width=256 border=3></img></tr>
         </table>
     </td>
     <td colspan=2><img src="./HR_videos/morphing34.gif" alt="" border=3></img></td>
     <td>
         <table border="0">
-            <tr><img src="./HR_videos/5.gif" alt="" border=3></img></tr>
-            <tr><img src="./HR_videos/6.gif" alt="" border=3></img></tr>
+            <tr><img src="./HR_videos/5.gif" alt="" height=256 width=256 border=3></img></tr>
+            <tr><img src="./HR_videos/6.gif" alt="" height=256 width=256 border=3></img></tr>
         </table>
     </td>
 </tr>
