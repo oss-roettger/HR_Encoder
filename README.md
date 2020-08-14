@@ -4,12 +4,11 @@ The  [StyleGAN2](https://arxiv.org/abs/1912.04958) model is is capable of genera
 
 **Legal information**
 
-*HR_Encoder.ipynb*, *HR_Encoder.py* and *w_utilities.py*<br>
-are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)** and distributed under the terms of **[GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.
+*HR_Encoder.ipynb*, *HR_Encoder.py* and *w_utilities.py* are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)** and distributed under the terms of **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.
 
-**Severability** clause: If a provision of the [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect: 
-1. the validity or enforceability in that jurisdiction of any other provision of the GNU AGPLv3; or 
-2. the validity or enforceability in other jurisdictions of that or any other provision of the GNU AGPLv3.
+**Severability** clause: If a provision of the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect: 
+1. the validity or enforceability in that jurisdiction of any other provision of the AGPLv3; or 
+2. the validity or enforceability in other jurisdictions of that or any other provision of the AGPLv3.
 
 <span style="color:red">**⚠️ Warning**</span>: HR_Encoder makes heavy use of your hardware via the [tensorflow2](https://www.tensorflow.org/) libraries. Pay attention to adequate ventilation/ cooling and take all necessary precautions to prevent overload, overheating or consequential damage according to the recommendations of your hardware provider.
 
