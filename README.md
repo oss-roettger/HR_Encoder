@@ -10,7 +10,7 @@
 1. the validity or enforceability in that jurisdiction of any other provision of the AGPLv3; or 
 2. the validity or enforceability in other jurisdictions of that or any other provision of the AGPLv3.
 
-<span style="color:red">**⚠️ Warning**</span>: HR_Encoder makes heavy use of your hardware via the [tensorflow2](https://www.tensorflow.org/) libraries. Pay attention to adequate ventilation/ cooling and take all necessary precautions to prevent overload, overheating or consequential damage according to the recommendations of your hardware provider.
+<span style="color:red">**⚠️ Warning**</span>: HR_Encoder makes heavy use of your hardware via the [tensorflow2](https://www.tensorflow.org/) libraries. Pay attention to adequate cooling and take all necessary precautions to prevent overload, overheating or consequential damage according to the recommendations of your hardware provider.
 
 **All images** used to showcase HR_Encoder are copyrighted by their respective owners and were licensed by them [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)/ PD/ [pixabay](https://pixabay.com/service/license/):<br> [1](https://de.m.wikipedia.org/wiki/Datei:Angela_Merkel_(2016-09-16_BRATISLAVA_SUMMIT).jpg)
 [2](https://www.maxpixel.net/Che-Red-Revolution-Silhouette-Stripes-Guevara-158841)
