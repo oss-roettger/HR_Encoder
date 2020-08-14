@@ -20,8 +20,6 @@
 [6](https://www.maxpixel.net/Cologne-Cathedral-Dom-Bridge-Cologne-Church-1111696)
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
-<img src="./HR_videos/3 encoded.png" alt="" border=3></img>
-
 <table style="width: 100%">
 <tr>
     <td>
@@ -39,6 +37,7 @@
     </td>
 </tr>
 </table>
+<img src="./HR_videos/3 encoded.png" alt="" border=3></img>
 
 **Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added / image style changed). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
 
