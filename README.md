@@ -79,4 +79,7 @@ BTW: this approach leads to a more consice algorithm without need of complicated
     # Finally: start HR_Encoder.ipynb [Kernal/Restart & Run All]
 
 ## Known issue
-If you run HR_Encoder with GPU/CUDA support, the tensorflow library might raise a "ressource exhausted" error from time to time. This seems to be the cause when the GPU memory is to fragmented to initialize the StyleGAN2 model. Work around: 1. try to run again. 2. restart your tensorflow environment. 3. restart your system.
+If you run HR_Encoder with GPU/CUDA support, the tensorflow library might raise a "ressource exhausted" error from time to time. This seems to be the cause when the GPU memory is to fragmented to initialize the huge StyleGAN2 model. Work around: 
+1. try to run again 
+2. restart your tensorflow environment 
+3. restart your system
