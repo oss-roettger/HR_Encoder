@@ -22,7 +22,7 @@
 
 
 
-|<img src="./HR_videos/1e.gif" alt="" border=3 height=180 width=180></img><br><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img>|<img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img>||<img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img>|
+|<img src="./HR_videos/1e.gif" alt="" border=3 height=180 width=180></img><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img>|<img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img>||<img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img>|
 
 <table style="width: 100%">
 <tr>
