@@ -22,7 +22,7 @@
 
 <table style="width: 100%">
 <tr>
-    <td>
+    <td style="text-align: center">
         <table border="0">
             <tr><img src="./HR_videos/1e.gif" alt="" height=256 width=256 border=3></img></tr>
             <tr><img src="./HR_videos/manipulation12.gif" alt="" height=256 width=256 border=3></img></tr>
