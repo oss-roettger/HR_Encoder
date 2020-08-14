@@ -42,7 +42,7 @@ Encoding into StyleGAN2's W space is not lossless. The figure shows the differen
 </table>
 
 
-**Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added or image style changed by one line of code). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
+**Examples shown above** are generated in the [jupyter notebook](./HR_Encoder.ipynb). First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added or image style changed by one line of code). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
 
 ### [(High Resolution) HR_Encoder](https://github.com/oss-roettger/HR_Encoder) calculates latent codes *w&#8407;∈W* for your images
 >## 🐱 ➡️` HR_Encoder `↘️ 
@@ -52,7 +52,7 @@ Encoding into StyleGAN2's W space is not lossless. The figure shows the differen
 **What for?** HR_Encoder transfers your images into StyleGAN2's *W* space and enables you to apply [state of the art image manipulation](https://www.youtube.com/watch?v=9QuDh3W3lOY) to your own material. Simple computations on latent codes *w&#8407;∈W* create [fantastic effects](https://www.youtube.com/watch?v=jdTICDa_eAI) in the StyleGAN2-generated images.
 
 **What is new?** In contrast to Dmitry Nikitko's [original encoder](https://github.com/Puzer/stylegan-encoder), HR_Encoder uses the StyleGAN2 discriminator model itself instead of the VGG16 model to preserve high level image features during encoding - resulting in latent codes *w&#8407;* for very sharp and detailed images.<br> 
-BTW: this approach leads to a more consice algorithm without need of complicated image similarity metrics.
+BTW: this approach leads to a more consice algorithm without the need of complicated image similarity metrics.
 
 **Is the encoding lossless?** No, not at all. But StyleGAN2 generates naturally looking images very similar to your input images, although details might be missing or could be artificially invented.
 
