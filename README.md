@@ -22,9 +22,9 @@
 
 <table style="width: 100%">
 <colgroup>
-   <col span="1" style="width: 25%;">
-   <col span="1" style="width: 50%;">
-   <col span="1" style="width: 25%;">
+<col span="1" style="width: 25%;">
+<col span="2" style="width: 50%;">
+<col span="1" style="width: 25%;">
 </colgroup>
 <tbody>
 <tr>
