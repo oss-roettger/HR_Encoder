@@ -42,7 +42,7 @@ Encoding into StyleGAN2's W space is not lossless. The figure shows the differnc
 </table>
 
 
-**Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added / image style changed). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
+**Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added or image style changed by one line of code). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
 
 ### [(High Resolution) HR_Encoder](https://github.com/oss-roettger/HR_Encoder) calculates latent codes *w&#8407;∈W* for your images
 >## 🐱 ➡️` HR_Encoder `↘️ 
