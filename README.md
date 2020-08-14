@@ -80,6 +80,6 @@ BTW: this approach leads to a more consice algorithm without the need of complic
 
 ## Known issue
 If you run HR_Encoder with GPU/CUDA support, the tensorflow library might raise a "ressource exhausted" error from time to time. This seems to be the case when the GPU memory is to fragmented to initialize and optimize the huge StyleGAN2 model. Work around: 
-1. try to restart the python/jupyter kernal and run again 
+1. try to restart the python/ jupyter kernel and run again 
 2. restart your tensorflow environment (e.g. the docker container) and run again
 3. restart your system
