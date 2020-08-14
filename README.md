@@ -40,7 +40,7 @@
 
 **Examples shown above** are generated in the jupyter notebook. First column visualizes encoding of a portrait and ease of manipulation in *W* space (sunglasses added / image style changed). Middle shows the result of morphing in *W* space. Finally encoding results for further StyleGAN2 domain models.
 
-### [(High Resolution) HR_Encoder](https://github.com/oss-roettger/HR_Encoder) calculates StyleGAN2 latent codes *w&#8407;∈W* for your images
+### [(High Resolution) HR_Encoder](https://github.com/oss-roettger/HR_Encoder) calculates latent codes *w&#8407;∈W* for your images
 >## 🐱 ➡️` HR_Encoder `↘️ 
 >## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (random) *z&#8407;*&nbsp; ➡️ &nbsp;&nbsp;*w&#8407;*&nbsp; ➡️` StyleGAN2 Generator `➡️ 🐱 
 ### ... and StyleGAN2 generates natural looking images from your latent codes *w&#8407;*
