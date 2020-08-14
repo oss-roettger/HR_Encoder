@@ -24,15 +24,15 @@
 <tr>
     <td>
         <table border="0">
-            <tr><img src="./HR_videos/1e.gif?raw=true" alt="" border=3 height=180 width=150></img></tr>
-            <tr><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=150></img></tr>
+            <tr><img src="./HR_videos/1e.gif?raw=true" alt="" border=3 height=180 width=180></img></tr>
+            <tr><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img></tr>
         </table>
     </td>
     <td><img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img></td>
     <td>
         <table border="0">
-            <tr><img src="./HR_videos/5.gif" alt="" border=3 height=150 width=180></img></tr>
-            <tr><img src="./HR_videos/6.gif" alt="" border=3 height=150 width=180></img></tr>
+            <tr><img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img></tr>
+            <tr><img src="./HR_videos/6.gif" alt="" border=3 height=180 width=180></img></tr>
         </table>
     </td>
 </tr>
