@@ -21,7 +21,7 @@
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
 <img src="./HR_videos/3 encoded.png" alt="" border=3></img>
-Encoding into StyleGAN2's W space is not lossless. The figure shows the differnces between an encoded and the original image.
+Encoding into StyleGAN2's W space is not lossless. The figure shows the differences between an encoded and the original image.
 
 <table style="width: 100%">
 <tr>
