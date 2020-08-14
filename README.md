@@ -4,7 +4,7 @@
 
 **Legal information**
 
-*HR_Encoder.ipynb*, *HR_Encoder.py* and *w_utilities.py* are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)** and distributed under the terms of **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.
+[*HR_Encoder.ipynb*](./HR_Encoder.ipynb), [*HR_Encoder.py*](./HR_Encoder.py) and [*w_utilities.py*](./w_utilities.p) are **Copyright © 2020 [HANS ROETTGER](mailto:oss.roettger@posteo.org)** and distributed under the terms of **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.
 
 **Severability** clause: If a provision of the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html) is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect: 
 1. the validity or enforceability in that jurisdiction of any other provision of the AGPLv3; or 
