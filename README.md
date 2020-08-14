@@ -20,11 +20,15 @@
 [6](https://www.maxpixel.net/Cologne-Cathedral-Dom-Bridge-Cologne-Church-1111696)
 [7](https://commons.wikimedia.org/wiki/File:Karl_Volkers_-_Portrait_of_a_Jockey_on_his_Horse.jpg)
 
+
+|||||
+|<img src="./HR_videos/1e.gif" alt="" border=3 height=180 width=180></img>|<img src="./HR_videos/morphing34.gif" alt="" border=3 height=370 width=370></img>||<img src="./HR_videos/5.gif" alt="" border=3 height=180 width=180></img>|
+
 <table style="width: 100%">
 <tr>
     <td>
         <table border="0">
-            <tr><img src="./HR_videos/1e.gif?raw=true" alt="" border=3 height=180 width=180></img></tr>
+            <tr><img src="./HR_videos/1e.gif" alt="" border=3 height=180 width=180></img></tr>
             <tr><img src="./HR_videos/manipulation12.gif" alt="" border=3 height=180 width=180></img></tr>
         </table>
     </td>
