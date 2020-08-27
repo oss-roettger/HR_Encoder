@@ -41,11 +41,10 @@ class StyleGan2Discriminator(tf.keras.layers.Layer):
         
         # modified HR
         # divert intermediate results for HR_Encoder
+        self.diversion_layer=0
         if diversion_layer is not None:
             if diversion_layer<self.resolution_log2:
                 self.diversion_layer=diversion_layer
-            else:
-                self.diversion_layer=0
         
         # load weights
         if weights is not None:
