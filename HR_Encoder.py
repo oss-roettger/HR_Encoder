@@ -25,7 +25,7 @@ class HR_Encoder:
         features_model: intermediate results styleGAN2.discriminator(image) -> features
         resolution: according to trained model (height,width,channels)
         '''
-        model_scales = {(1024,1024,3):18,(512,512,3):16,(256,256,3):14}
+        model_scales = {(1024,1024,3):18,(512,512,3):16,(256,256,3):14,(128,128,3):12,(64,64,3):10,(32,32,3):8}
         try:
             self.model_scale=int(model_scales[resolution])
         except:
@@ -110,7 +110,7 @@ class HR_Encoder:
         '''
         print("\rHR_Encoder preparing...",end="")
         # prepare target image to fit HR_Encoder model
-        img=tf.image.decode_png(tf.io.read_file(img_path))
+        img=tf.image.decode_png(tf.io.read_file(img_path), channels=self.channels)
         img=tf.image.resize(img,[self.height,self.width], method='bilinear')
         target_img=img.numpy().astype(np.ubyte)
         img=tf.expand_dims(img,0)
